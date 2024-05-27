@@ -23,19 +23,15 @@ No necesitas ningún pre-requisito
    ```bash
    cd day-mother-flowers
    
- # Modification Name
-     To compile the SCSS file to CSS, follow these steps.
+ # Add Name     
 1. Abre el archivo index.html en tu editor de código.
-2. Modifica la siguiente línea de código:
+2. Descomenta la siguiente línea de código y añade tu nombre:
      ```bash
-   <h2>Atte. tu hijo "Aqui colocar tu nombre"</h1>
+   <h2>Atte. tu hijo "Aqui colocar tu nombre"</h2>
 
 ## Origen
-Repositorio Original: https://github.com/sreyounpann/HappyAnniversaryFlower.git
+Repositorio Original Base: https://github.com/sreyounpann/HappyAnniversaryFlower.git
 
-## Questions and Support
-If you have any questions or encounter issues, feel free to reach out to me on Instagram [yeowdoingood](https://www.instagram.com/yeowdoingood/).
-    Feel free to copy and paste this into your [README file](README.md)!
 
 
 
