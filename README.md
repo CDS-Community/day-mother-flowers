@@ -7,7 +7,7 @@ This project showcases an elegant sunflower animation crafted using HTML, SCSS, 
   - [Prerequisites](#prerequisites)
   - [Installation Guide](#installation-guide)  
   - [Modification Name](#modification-name)
-- [Questions and Support](#questions-and-support)
+- [Origen](#origen)
 
 ## Getting Started
 
