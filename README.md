@@ -17,7 +17,7 @@ No necesitas ningún pre-requisito
 ### Installation Guide
 1. **Clone the Repository:**
    ```bash
-   git clone <repositorio>
+   git clone https://github.com/CDS-Community/day-mother-flowers.git
 
 2. Navigate to the project directory.
    ```bash
